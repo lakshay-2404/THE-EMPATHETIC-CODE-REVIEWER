@@ -1,0 +1,11 @@
+google-generativeai>=0.3.0
+pandas>=1.5.0
+numpy>=1.21.0
+Jupyter and Interactive Components (Required for Advanced Implementation)
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+ipywidgets>=8.0.0
+tqdm>=4.64.0
+
+# Run Commands:
+# jupyter notebook
