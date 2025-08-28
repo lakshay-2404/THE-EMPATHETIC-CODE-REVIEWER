@@ -1,0 +1,8 @@
+{
+  "code_snippet": "def calculate_average(numbers):\n    return sum(numbers) / len(numbers)",
+  "review_comments": [
+    "Consider adding error handling for empty lists.",
+    "Maybe add type hints for better documentation.",
+    "Nice work! You might want to handle the division by zero case."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code_snippet": "def foo(x):\n    if x == True:\n        return x * 2\n    else:\n        return None",
+  "review_comments": [
+    "Function name 'foo' is meaningless and horrible.",
+    "Consider using a more descriptive parameter name than 'x'.",
+    "The boolean comparison '== True' is redundant.",
+    "This function could benefit from type hints."
+  ]
+}

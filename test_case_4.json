@@ -1,0 +1,9 @@
+{
+  "code_snippet": "def get_user_data(user_id):\n    global db_connection\n    query = \"SELECT * FROM users WHERE id = \" + str(user_id)\n    result = db_connection.execute(query)\n    return result.fetchall()[0]",
+  "review_comments": [
+    "SQL injection vulnerability - never concatenate user input directly!",
+    "Global variables are bad practice and make testing difficult.",
+    "No error handling for database operations or empty results.",
+    "Function naming doesn't follow Python conventions."
+  ]
+}

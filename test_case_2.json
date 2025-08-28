@@ -1,0 +1,8 @@
+{
+  "code_snippet": "def process_data(data):\n    for i in range(len(data)):\n        print(data[i])",
+  "review_comments": [
+    "This code is terrible and shows poor understanding of Python basics!",
+    "Using range(len()) is awful - learn proper iteration, this is garbage!",
+    "Why are you printing everything? This is completely useless."
+  ]
+}
