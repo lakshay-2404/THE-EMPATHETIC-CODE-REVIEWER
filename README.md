@@ -50,6 +50,7 @@ text
 
 ## 📋 Project Structure
 
+'''mermaid
 lakshay-2404/ (GitHub repo)
 ├── Notebook_code_file.ipynb # 🎭 Complete implementation notebook
 ├── requirements.txt # 📋 Dependencies
@@ -61,7 +62,7 @@ lakshay-2404/ (GitHub repo)
 ├── test_case_6.json # 🔄 Mixed severity scenario
 ├── test_case_7.json # 🚀 Advanced features scenario
 └── README.md # 📖 This documentation
-
+'''
 text
 
 ---
