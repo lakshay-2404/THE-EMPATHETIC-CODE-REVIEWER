@@ -67,7 +67,7 @@ text
 
 ---
 
-## 🏆 Target Hackathon Score: 98/100
+## 🏆 Target Hackathon
 
 - **Functionality & Correctness (25/25)**: Complete implementation in one notebook with robust validation and error handling.  
 - **AI Output Quality (44/45)**: Advanced prompt engineering with genuine empathy and technical accuracy.  
